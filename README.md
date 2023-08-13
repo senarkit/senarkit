@@ -4,7 +4,7 @@ I'm a Data Scientist working in Financial and Banking domain. I  write code most
 
 - 🔭 I’m currently working on Time Series Forecasting and Bayesian Concepts
 - 🌱 I’m currently learning Gen-AI/ML/MLOPS
-- 👯 I’m looking to collaborate on MLE
+- 👯 I’m looking to collaborate on DL/LLM
 - 🤔 I’m looking for help with Bayesian / Deep Learning concepts
 - 💬 Ask me about Data Science / AI / Personal Finance
 - 📫 How to reach me: senarkit@gmail.com
