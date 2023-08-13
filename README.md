@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning AI/ML/MLOPS & applying them in Financial domain
+- 🌱 I’m currently learning Gen-AI/ML/MLOPS & applying them in Financial domain
 - 👯 I’m looking to collaborate on MLE
 - 🤔 I’m looking for help with Bayesian / Deep Learning concepts
 - 💬 Ask me about Data Science / AI / Personal Finance
